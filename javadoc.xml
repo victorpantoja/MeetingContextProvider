@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="../icm_v20100506.jar:../ContextManagementService/bin" destdir="doc" doctitle="MeetingContextProvider" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.6" sourcefiles="src/br/rio/puc/inf/lac/mobilis/cms/provider/MeetingContextProvider.java" sourcepath="gen:src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
